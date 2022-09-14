@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodList (MVVM Retrofit Room)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_name">Food name</string>
+    <string name="food_calorie">Food calorie</string>
+    <string name="food_photo">food photo</string>
+    <string name="hata_al_nd">Hata alındı</string>
+    <string name="found_error">Found error</string>
+    <string name="food_carbohydrate">food_carbohydrate</string>
+    <string name="food_protein" />
+    <string name="i">food protein</string>
+    <string name="food_oil">food oil</string>
+    <string name="detail_photo">Detail Photo</string>
+</resources>
